@@ -1,0 +1,6 @@
+arnold 10
+cesar 20
+nicole 15
+oscar 12
+Julio 30
+pedro 11
